@@ -13,7 +13,7 @@
 /*
  * @file subscribe_publish_sample.c
  * This is a modified version of AWS sample code 
- * SoftwareAssociates Modification-"**a**j**i****"
+ * SoftwareAssociates Modification
  * @brief simple MQTT publishing Dht22 values to the amazon AWS ACCOUNT which uses Queues to intertransmit the values betweeen the Task
 
  */
